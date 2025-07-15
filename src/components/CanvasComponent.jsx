@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from "react";
-import { CardContent, Typography } from "@mui/material";
+import { Typography } from "@mui/material";
 
 const CanvasComponent = () => {
   const canvasRef = useRef(null);
